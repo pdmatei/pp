@@ -3,7 +3,7 @@ The repo contains the examples shown at the Programming Paradigms lecture.
 # Contents:
 
 ### Higher-order functions ###
-```c03-v0.hs``` - The implementation of the cost function for linear regression (ML), using higher-order functions and the functional //pipeline// style 
+```c03-v0.hs``` - The implementation of the cost function for linear regression (ML), using higher-order functions and the functional *pipeline* style 
   
 To run c03-v01.hs you need to install:
   - gnuplot (a plotting app)
